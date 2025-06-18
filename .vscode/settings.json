@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/49b3009c-5995-4dc6-be4e-1329e8470b6e/resourceGroups/spring-rg/providers/Microsoft.Web/sites/my-springboot-app",
+    "appService.deploySubpath": "AzSpringApp",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
