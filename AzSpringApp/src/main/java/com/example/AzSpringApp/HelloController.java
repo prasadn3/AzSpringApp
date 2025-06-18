@@ -9,7 +9,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello, World! prasad";
+        return "successfully deployed to Azure Spring Apps!";
     }
 }
 
